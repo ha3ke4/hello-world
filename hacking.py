@@ -32,7 +32,7 @@ class color:
         logger.log(lvl, col + msg + color.END)
 
 
-print color.BOLD + color.RED + """
+
 XssPy - Finding XSS made easier
 Author: Faizan Ahmad (Fsecurify)
 Email: fsecurify@gmail.com
